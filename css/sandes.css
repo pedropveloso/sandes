@@ -148,6 +148,11 @@ a:focus {
     font-size: 18px;
 }
 
+.contact-text {
+    font-size: 14px;
+    margin-top: 40px;
+}
+
 @media(min-width:767px) {
     .intro {
         height: 100%;
@@ -160,6 +165,10 @@ a:focus {
 
     .intro-text {
         font-size: 25px;
+    }
+    .contact-text {
+        font-size: 18px;
+        margin-top: 70px;
     }
 }
 
